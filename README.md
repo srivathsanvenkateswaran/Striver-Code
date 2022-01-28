@@ -2,7 +2,7 @@
 
 Collection of all the code for stuffs learnt from Striver.
 
-<ol>
+<ul>
 <Li> Recursion</Li>
 <Li> Dynamic Programming</Li>
-</ol>
+</ul>
